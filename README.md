@@ -1,10 +1,20 @@
-### Hi there 👋
+### Jongyoon (John) Kim  👋
+
+<!-- [Here](https://docs.google.com/uc?export=download&id=1zSnhiBK90VnGGLutJXajjEo2Yrm6AaHe) is my CV   
+
+[J-TKim.github.io](https://j-tkim.github.io) -->
+
+<!-- I ❤️ to study about Machine Learning and Deep Learning   
+   
+💪 My major is Electrical and Electronics Engineering-->
+
+<br>
+
+[![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**ArtemisDicoTiar/ArtemisDicoTiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
+ㄴ
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
