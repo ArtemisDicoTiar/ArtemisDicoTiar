@@ -1,28 +1,15 @@
-### Jongyoon (John) Kim  👋
-
-<!-- [Here](https://docs.google.com/uc?export=download&id=1zSnhiBK90VnGGLutJXajjEo2Yrm6AaHe) is my CV   
-
-[J-TKim.github.io](https://j-tkim.github.io) -->
-
-<!-- I ❤️ to study about Machine Learning and Deep Learning   
-   
-💪 My major is Electrical and Electronics Engineering-->
-
-<br>
-
+## Jongyoon (John) Kim  👋
 [![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-[My Blog](https://artemisdicotiar.github.io/)
+- 💪 My major is Electrical and Electronics Engineering
+- 🔭 I’m currently working on [wisdomify](https://github.com/eubinecto/wisdomify) and [storyteller](https://github.com/ArtemisDicoTiar/storyteller) project. 
+- 🌱 I’m currently learning Machien Learning and Deep Learning.
+- 🤔 I’m looking for help with strengthening my ML/DL knowledge and how to apply the knowledge to life.
+- 💬 Ask me about any question related to my project! :)
+- 📫 You can reach to me by E-mail: johnjongyoonkim@gmail.com
+- 😄 Pronouns: Crazy and weird but steady engineer
+- ⚡ Fun fact: I haven't cut my hair for a year now! XD
 
-<!--
-Here are some ideas to get you started:
-ㄴ
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Take a look at [My Blog!](https://artemisdicotiar.github.io/)
+
+[Here](https://artemisdicotiar.github.io/cv.html) is my CV page. You can also [download](https://artemisdicotiar.github.io/assets/CV_Jongyoon_Kim_2021.pdf) the pdf file.
