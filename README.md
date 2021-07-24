@@ -2,7 +2,7 @@
 [![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💪 My major is Electrical and Electronics Engineering
-- 🔭 I’m currently working on [wisdomify](https://github.com/eubinecto/wisdomify) and [storyteller](https://github.com/ArtemisDicoTiar/storyteller) project. 
+- 🔭 I’m currently working on [wisdomify](https://github.com/eubinecto/wisdomify) and [storyteller](https://github.com/ArtemisDicoTiar/storyteller) project. In addition to two project, I am [anlysing COVID-19 data](https://github.com/ArtemisDicoTiar/MEDIC) and building live update [webpage](https://johnjongyoonkim.eu.ngrok.io/) with [Vuejs(project repo)](https://github.com/ArtemisDicoTiar/winery/tree/feature/10) and [Django-rest(project repo)](https://github.com/ArtemisDicoTiar/covid_data_blog)
 - 🌱 I’m currently learning Machien Learning and Deep Learning.
 - 🤔 I’m looking for help with strengthening my ML/DL knowledge and how to apply the knowledge to life.
 - 💬 Ask me about any question related to my project! :)
