@@ -12,6 +12,8 @@
 
 [![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
+[My Blog](https://artemisdicotiar.github.io/)
+
 <!--
 Here are some ideas to get you started:
 ㄴ
