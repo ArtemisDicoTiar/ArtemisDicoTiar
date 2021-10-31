@@ -4,7 +4,7 @@
 <!-- [![readmeplants](https://readmeplants.com/get?name=ArtemisDicoTiar&planet=eclipse&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants) -->
 - 💪 My final degree is (BEng, Bachelor) Electrical and Electronics Engineering.
 - 🔭 I’m currently working on [wisdomify](https://github.com/eubinecto/wisdomify) and [storyteller](https://github.com/ArtemisDicoTiar/storyteller) project. 
-- 🔭 In addition to two projects, I am [anlysing COVID-19 data](https://github.com/ArtemisDicoTiar/MEDIC) and building live update [webpage](http://johnjongyoonkim.com) with [Vuejs(project repo)](https://github.com/ArtemisDicoTiar/winery/tree/feature/10) and [Django-rest(project repo)](https://github.com/ArtemisDicoTiar/covid_data_blog)
+- 🔭 In addition to two projects, I am [analysing COVID-19 data](https://github.com/ArtemisDicoTiar/MEDIC) and building live update [webpage](http://johnjongyoonkim.com) with [Vuejs(project repo)](https://github.com/ArtemisDicoTiar/winery/tree/feature/10) and [Django-rest(project repo)](https://github.com/ArtemisDicoTiar/covid_data_blog)
 - 🌱 I’m currently learning Machine Learning and Deep Learning used on image and computer vision. 
 - 🤔 I’m looking for help with strengthening my ML/DL knowledge and how to apply the knowledge to life.
 - 💬 Ask me about any question related to my project! :)
