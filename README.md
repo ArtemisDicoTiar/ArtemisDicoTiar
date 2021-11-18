@@ -1,6 +1,4 @@
 ## Jongyoon (John) Kim  👋
-[![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- [![readmeplants](https://readmeplants.com/get?name=ArtemisDicoTiar&planet=eclipse&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants) -->
 - 💪 My final degree is (BEng, Bachelor) Electrical and Electronics Engineering.
 - 🔭 I’m currently working on [wisdomify](https://github.com/eubinecto/wisdomify) and [storyteller](https://github.com/ArtemisDicoTiar/storyteller) project. 
@@ -15,3 +13,12 @@
 Take a look at [My Blog!](https://artemisdicotiar.github.io/)
 
 [Here](https://artemisdicotiar.github.io/cv.html) is my CV page. You can also [download](https://artemisdicotiar.github.io/assets/CV_Jongyoon_Kim_2021.pdf) the pdf file.
+
+## 📊 Github Stats
+![John's github stats trans overview](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/overview.svg)
+![John's github stats trans lang](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/languages.svg)
+
+[![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
