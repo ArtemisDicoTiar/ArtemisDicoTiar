@@ -19,7 +19,7 @@ Take a look at [My Blog!](https://artemisdicotiar.github.io/)
   * [wisdomify](https://github.com/eubinecto/wisdomify) and [storyteller](https://github.com/ArtemisDicoTiar/storyteller)
 * COVID-19 Data Collection, Visualisation & Analysis 
   * 2020 Summer ~ Current (Maintenance only, No future updates)
-  * [Analysing COVID-19 data](https://github.com/ArtemisDicoTiar/MEDIC) and building live update [webpage](http://johnjongyoonkim.com) with [Vuejs(project repo)](https://github.com/ArtemisDicoTiar/winery/tree/feature/10) and [Django-rest(project repo)](https://github.com/ArtemisDicoTiar/covid_data_blog)
+  * [Analysing COVID-19 data](https://github.com/ArtemisDicoTiar/MEDIC) and building live update webpage (Stopped serving.) with [Vuejs(project repo)](https://github.com/ArtemisDicoTiar/winery/tree/feature/10) and [Django-rest(project repo)](https://github.com/ArtemisDicoTiar/covid_data_blog)
 
 ## 📊 Github Stats
 <!-- ![John's github stats trans overview](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/overview.svg) -->
