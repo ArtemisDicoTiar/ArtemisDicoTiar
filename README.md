@@ -1,15 +1,15 @@
 ## Jongyoon (John) Kim  👋
 <!-- [![readmeplants](https://readmeplants.com/get?name=ArtemisDicoTiar&planet=eclipse&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants) -->
-- 🎓 My final degree is (BEng, Bachelor) Electrical and Electronics Engineering.
 - 📚 I'm studying (Ph.D) Artificial Intelligence at LDI lab, Seoul National University, South Korea.
-- 🔭 I’m researching about Nerual IR projects.
+- 🎓 My final degree is (BEng, Bachelor) Electrical and Electronics Engineering.
+- 🔭 I’m researching about Nerual IR and Natural Language Processing (NLP).
 - 🌱 I’m currently learning Machine Learning and Deep Learning for NLP and IR. 
 - 🤔 I’m looking for help with strengthening my ML/DL knowledge and how to apply the knowledge to life.
 <!-- - 💬 Ask me about any question related to my project! :) -->
 - 📫 You can reach me by E-mail: 
- - johnjongyoonkim@gmail.com (personal contact), 
- - john.jongyoon.kim@snu.ac.kr (academic), 
- - jongyoon.kim@ldi.snu.ac.kr (academic - research specific)
+  - johnjongyoonkim@gmail.com (personal contact), 
+  - john.jongyoon.kim@snu.ac.kr (academic), 
+  - jongyoon.kim@ldi.snu.ac.kr (academic - research specific)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Nothing special these days!
 <!-- - I haven't cut my hair for a year now! XD and now I have cut it -->
