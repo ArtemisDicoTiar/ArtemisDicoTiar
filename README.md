@@ -10,7 +10,7 @@
   - johnjongyoonkim@gmail.com (personal contact), 
   - john.jongyoon.kim@snu.ac.kr (academic), 
   - jongyoon.kim@ldi.snu.ac.kr (academic - research specific)
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Nothing special these days!
 <!-- - I haven't cut my hair for a year now! XD and now I have cut it -->
 
