@@ -14,9 +14,9 @@
 - ⚡ Fun fact: Nothing special these days!
 <!-- - I haven't cut my hair for a year now! XD and now I have cut it -->
 
-Take a look at [My Blog!](https://artemisdicotiar.github.io/)
+Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 
-[Here](https://artemisdicotiar.github.io/cv.html) is my CV page (\* this is quite outdated. Will be updated soon). You can also [download](https://github.com/ArtemisDicoTiar/ArtemisDicoTiar/files/8920052/CV_JongyoonKim.pdf)(This is updated on 17/June,2022) the pdf file.
+[Here](https://artemisdicotiar.github.io/cv.html) is my CV page.
 
 ## Projects
 * A BERT-based reverse dictionary of Korean proverbs 
