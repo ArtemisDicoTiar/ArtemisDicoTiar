@@ -2,13 +2,13 @@
 <!-- [![readmeplants](https://readmeplants.com/get?name=ArtemisDicoTiar&planet=eclipse&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants) -->
 - 📚 I'm studying (Ph.D) Artificial Intelligence at LDI lab, Seoul National University, South Korea.
 - 🎓 My final degree is (BEng, Bachelor) Electrical and Electronics Engineering.
-- 🔭 I’m researching about Nerual IR and Natural Language Processing (NLP).
-- 🌱 I’m currently learning Machine Learning and Deep Learning for NLP and IR. 
-- 🤔 I’m looking for help with strengthening my ML/DL knowledge and how to apply the knowledge to life.
+- 🔭 I’m researching about Neural IR and Natural Language Processing (NLP).
+- 🌱 I’m learning Machine Learning and Deep Learning for NLP and IR. 
+- 🤔 I’m looking for help strengthening my ML/DL knowledge and how to apply the knowledge to life.
 <!-- - 💬 Ask me about any question related to my project! :) -->
 - 📫 You can reach me by E-mail: 
-  - johnjongyoonkim@gmail.com (personal contact), 
-  - john.jongyoon.kim@snu.ac.kr (academic), 
+  - johnjongyoonkim@gmail.com (personal contact)
+  - john.jongyoon.kim@snu.ac.kr (academic)
   - jongyoon.kim@ldi.snu.ac.kr (academic - research specific)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Nothing special these days!
@@ -17,6 +17,8 @@
 Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 
 [Here](https://artemisdicotiar.github.io/cv.html) is my CV page.
+## Publications
+* DADA: Distribution-Aware Domain Adaptation of PLMs for Information Retrieval, Findings of ACL 2024
 
 ## Projects
 * A BERT-based reverse dictionary of Korean proverbs 
@@ -30,7 +32,7 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 <!-- ![John's github stats trans overview](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/overview.svg) -->
 ![John's github stats trans lang](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/languages.svg) [![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
-## Major Tech Stacks
+## Major-Tech Stacks
 ### Languages 
 > <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Scala" src ="https://img.shields.io/badge/Scala-DC322F.svg?&style=for-the-badge&logo=Scala&logoColor=white"/> 
 <details><summary>Others Available</summary><blockquote>
@@ -62,8 +64,6 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 <details><summary>Others Available</summary><blockquote>
 <img alt="DataGrip" src ="https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=DataGrip&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> <img alt="GitLFS" src ="https://img.shields.io/badge/GitLFS-F64935.svg?&style=for-the-badge&logo=GitLFS&logoColor=white"/> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> <img alt="GNUBash" src ="https://img.shields.io/badge/GNUBash-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white"/>   <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>  <img alt="VisualStudioCode" src ="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
 </blockquote></details>
-
-
 
 
 ### Web > Front
