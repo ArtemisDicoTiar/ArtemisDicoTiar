@@ -21,6 +21,7 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 [Here](https://artemisdicotiar.github.io/cv.html) is my CV page.
 ## Publications
 * DADA: Distribution-Aware Domain Adaptation of PLMs for Information Retrieval, Findings of ACL 2024
+* Analyzing the Effectiveness of Listwise Reranking with Positional Invariance on Temporal Generalizability, CLEF-WN 2024 (LongEval Lab)
 
 ## Projects
 * A BERT-based reverse dictionary of Korean proverbs 
