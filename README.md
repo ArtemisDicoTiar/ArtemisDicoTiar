@@ -11,7 +11,9 @@
   - john.jongyoon.kim@snu.ac.kr (academic)
   - jongyoon.kim@ldi.snu.ac.kr (academic - research specific)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Nothing special these days!
+- ⚡ Fun fact:
+  - I am learning 🇫🇷French!
+  - I am raising small portion of vegetables at my balcony! :)
 <!-- - I haven't cut my hair for a year now! XD and now I have cut it -->
 
 Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
