@@ -13,7 +13,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
   - I am learning 🇫🇷 French!
-  - I am raising small portion of 🪴 vegetables at my balcony! :)
+  - I am growing small portion of 🪴 vegetables at my balcony! :)
 <!-- - I haven't cut my hair for a year now! XD and now I have cut it -->
 
 Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
