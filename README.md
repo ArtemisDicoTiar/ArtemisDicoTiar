@@ -2,9 +2,11 @@
 <!-- [![readmeplants](https://readmeplants.com/get?name=ArtemisDicoTiar&planet=eclipse&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants) -->
 - 📚 I'm studying (Ph.D) Artificial Intelligence [at] LDI lab, Seoul National University, South Korea.
 - 🎓 My final degree is (BEng, Bachelor) Electrical and Electronics Engineering [at] University of Bristol, United Kingdom.
-- 🔭 I’m researching about Neural IR and Natural Language Processing (NLP).
-- 🌱 I’m learning Machine Learning and Deep Learning for NLP and IR. 
-- 🤔 I’m looking for help strengthening my ML/DL knowledge and how to apply the knowledge to life.
+- 📝 My research focused on Natural Language Processing, supervised by Professor [Seungwon Hwang](https://seungwonh.github.io/).
+- 🔭 My research focuses on creating methods that can positively impact society, with a strong emphasis on the idea of "feedback" as a core concept in my studies.
+  - (1) Enabling models to share knowledge for better performance and diverse insights.
+  - (2) Guiding models with external knowledge to keep them aligned with objectives.
+  - (3) Providing and receiving feedback as a teaching assistant to enhance learning and teaching skills.
 <!-- - 💬 Ask me about any question related to my project! :) -->
 - 📫 You can reach me by E-mail: 
   - johnjongyoonkim@gmail.com (personal contact)
