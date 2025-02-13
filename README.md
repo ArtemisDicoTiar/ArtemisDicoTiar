@@ -25,6 +25,8 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 * QuBE: Question-based Belief Enhancement for Agentic LLM, EMNLP 2024
 * Analyzing the Effectiveness of Listwise Reranking with Positional Invariance on Temporal Generalizability, CLEF-WN 2024 (LongEval Lab)
 * DADA: Distribution-Aware Domain Adaptation of PLMs for Information Retrieval, Findings of ACL 2024
+* tRAG: Term-level Retrieval-Augmented Generation for Domain-Adaptive Retrieval, NAACL 2025
+* PLEX: Adaptive Parameter-Efficient Fine-Tuning for Code LLMs using Lottery-Tickets, NAACL 2025 (Industry)
 
 ## Projects
 * A BERT-based reverse dictionary of Korean proverbs 
