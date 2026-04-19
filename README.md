@@ -22,6 +22,7 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 
 [Here](https://artemisdicotiar.github.io/cv.html) is my CV page.
 ## Publications
+* TE2: Benchmark for Theorem Evaluation by Execution, ACL 2026 (Industry)
 * UnIte: Uncertainty-based Iterative Document Sampling for Domain Adaptation in Information Retrieval, Findings of ACL 2026 
 * Chain-of-Function: Inducing Sequential Plans Over Decomposed Code Indexes forCode Generation, Korea AI Conference 2025
 * tRAG: Term-level Retrieval-Augmented Generation for Domain-Adaptive Retrieval, NAACL 2025
