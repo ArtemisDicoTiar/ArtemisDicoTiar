@@ -24,7 +24,7 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 ## Publications
 * Benchmarking Testing on Automated Theorem Proving, ACL 2026 (Industry)
 * UnIte: Uncertainty-based Iterative Document Sampling for Domain Adaptation in Information Retrieval, Findings of ACL 2026 
-* Chain-of-Function: Inducing Sequential Plans Over Decomposed Code Indexes forCode Generation, Korea AI Conference 2025
+* Chain-of-Function: Inducing Sequential Plans Over Decomposed Code Indexes for Code Generation, Korea AI Conference 2025
 * tRAG: Term-level Retrieval-Augmented Generation for Domain-Adaptive Retrieval, NAACL 2025
 * PLEX: Adaptive Parameter-Efficient Fine-Tuning for Code LLMs using Lottery-Tickets, NAACL 2025 (Industry)
 * QuBE: Question-based Belief Enhancement for Agentic LLM, EMNLP 2024
