@@ -31,6 +31,11 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 * Analyzing the Effectiveness of Listwise Reranking with Positional Invariance on Temporal Generalizability, CLEF-WN 2024 (LongEval Lab)
 * DADA: Distribution-Aware Domain Adaptation of PLMs for Information Retrieval, Findings of ACL 2024
 
+## Services
+* ARR Reviewer, since 2023
+* Neurips Reviewer, 2026
+* Area Chair & Track Lead, ICML Workshop (AI4Math), 2026
+
 ## Projects
 * A BERT-based reverse dictionary of Korean proverbs 
   * 2021 Summer ~ 2021 Winter
