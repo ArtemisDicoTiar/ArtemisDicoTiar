@@ -22,6 +22,7 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 
 [Here](https://artemisdicotiar.github.io/cv.html) is my CV page.
 ## Publications
+* SHADOWBENCH: Toward Reliable Automatic Evaluation of Semantic Alignment in Autoformalization, EMNLP 2026
 * Benchmarking Testing on Automated Theorem Proving, ACL 2026 (Industry)
 * UnIte: Uncertainty-based Iterative Document Sampling for Domain Adaptation in Information Retrieval, Findings of ACL 2026 
 * Chain-of-Function: Inducing Sequential Plans Over Decomposed Code Indexes for Code Generation, Korea AI Conference 2025
