@@ -33,8 +33,8 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 * DADA: Distribution-Aware Domain Adaptation of PLMs for Information Retrieval, Findings of ACL 2024
 
 ## Services
-* ARR Reviewer, since 2025 Feb
-* Neurips Reviewer, 2026
+* Reviewer, ARR, since 2025 Feb
+* Reviewer, Neurips, 2026
 * Area Chair & Track Lead, ICML Workshop (AI4Math), 2026
 
 ## Projects
