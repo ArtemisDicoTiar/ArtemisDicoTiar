@@ -55,11 +55,12 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
   * [Project Repo](https://github.com/ArtemisDicoTiar/sisr_project)
   * [Generated Images](https://github.com/ArtemisDicoTiar/SISRProjectImage)
 
-## 📊 Github Stats
-<!-- ![John's github stats trans overview](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/overview.svg) -->
-![John's github stats trans lang](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/languages.svg) [![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
+## 📊 Github Stats
+<!-- ![John's github stats trans overview](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/overview.svg) 
+<!--![John's github stats trans lang](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/languages.svg) [![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Major Tech Stacks
 ### Languages 
 > <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Scala" src ="https://img.shields.io/badge/Scala-DC322F.svg?&style=for-the-badge&logo=Scala&logoColor=white"/> 
