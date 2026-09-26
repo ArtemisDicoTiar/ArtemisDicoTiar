@@ -40,12 +40,20 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 * Area Chair & Track Lead, ICML Workshop (AI4Math), 2026
 
 ## Projects
+* [Deepinme](https://github.com/ArtemisDicoTiar/deepinme)
+  * 2026 Summer ~ (Not public yet)
+* [Stitch](https://github.com/ArtemisDicoTiar/stitch)
+  * 2026 Summer ~ (Not public yet)
+* COVID-19 Data Collection, Visualisation & Analysis 
+  * 2020 Summer ~ 2022 (Maintenance only, no future updates)
+  * [Analysing COVID-19 data](https://github.com/ArtemisDicoTiar/MEDIC) and building live update webpage (Stopped serving.) with [Vuejs(project repo)](https://github.com/ArtemisDicoTiar/winery/tree/feature/10) and [Django-rest(project repo)](https://github.com/ArtemisDicoTiar/covid_data_blog)
 * A BERT-based reverse dictionary of Korean proverbs 
   * 2021 Summer ~ 2021 Winter
   * [wisdomify](https://github.com/eubinecto/wisdomify) and [storyteller](https://github.com/ArtemisDicoTiar/storyteller)
-* COVID-19 Data Collection, Visualisation & Analysis 
-  * 2020 Summer ~ Current (Maintenance only, No future updates)
-  * [Analysing COVID-19 data](https://github.com/ArtemisDicoTiar/MEDIC) and building live update webpage (Stopped serving.) with [Vuejs(project repo)](https://github.com/ArtemisDicoTiar/winery/tree/feature/10) and [Django-rest(project repo)](https://github.com/ArtemisDicoTiar/covid_data_blog)
+* Single-Image Super Resolution
+  * 2020 Autumn ~ 2021 Spring, Undergraduate Graduation Project
+  * [Project Repo](https://github.com/ArtemisDicoTiar/sisr_project)
+  * [Generated Images](https://github.com/ArtemisDicoTiar/SISRProjectImage)
 
 ## 📊 Github Stats
 <!-- ![John's github stats trans overview](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/overview.svg) -->
