@@ -1,21 +1,23 @@
-## Jongyoon (John) Kim  👋
+## Jongyoon (John) Kim 👋
 <!-- [![readmeplants](https://readmeplants.com/get?name=ArtemisDicoTiar&planet=eclipse&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants) -->
-- 📚 I'm studying (Ph.D) Artificial Intelligence [at] LDI lab, Seoul National University, South Korea.
-- 🎓 My final degree is (BEng, Bachelor) Electrical and Electronics Engineering [at] University of Bristol, United Kingdom.
+- 📚 I'm studying (Ph.D.) Artificial Intelligence [at] the LDI Lab, Seoul National University, South Korea.
+- 🎓 My final degree is (BEng, Bachelor) in Electrical and Electronics Engineering [at] University of Bristol, United Kingdom.
 - 📝 My research focused on Natural Language Processing, supervised by Professor [Seungwon Hwang](https://seungwonh.github.io/).
 - 🔭 My research focuses on creating methods that can positively impact society, with a strong emphasis on the idea of "feedback" as a core concept in my studies.
   - (1) Enabling models to share knowledge for better performance and diverse insights.
   - (2) Guiding models with external knowledge to keep them aligned with objectives.
   - (3) Providing and receiving feedback as a teaching assistant to enhance learning and teaching skills.
 <!-- - 💬 Ask me about any question related to my project! :) -->
-- 📫 You can reach me by E-mail: 
+- 📫 You can reach me by email: 
   - johnjongyoonkim@gmail.com (personal contact)
   - john.jongyoon.kim@snu.ac.kr (academic)
-  - jongyoon.kim@ldi.snu.ac.kr (academic - research specific)
+<!--  - jongyoon.kim@ldi.snu.ac.kr (academic - research specific) -->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
   - I am learning 🇫🇷 French!
-  - I am growing small portion of 🪴 vegetables at my balcony! :)
+  - I am growing a small portion of 🪴 vegetables on my balcony! :)
+  - I crochet 🧶 as a hobby, and so far I've made keychains and beanies 👒.
+  - I like running 🏃 to refresh my mind.
 <!-- - I haven't cut my hair for a year now! XD and now I have cut it -->
 
 Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
@@ -33,8 +35,8 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 * DADA: Distribution-Aware Domain Adaptation of PLMs for Information Retrieval, Findings of ACL 2024
 
 ## Services
-* Reviewer, ARR, since 2025 Feb
-* Reviewer, Neurips, 2026
+* Reviewer, ARR (Including Industry Tracks), since Feb 2025
+* Reviewer, NeurIPS, 2026
 * Area Chair & Track Lead, ICML Workshop (AI4Math), 2026
 
 ## Projects
@@ -49,7 +51,8 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 <!-- ![John's github stats trans overview](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/overview.svg) -->
 ![John's github stats trans lang](https://github.com/ArtemisDicoTiar/github-stats-transparent/blob/output/generated/languages.svg) [![John's github stats](https://github-readme-stats.vercel.app/api?username=ArtemisDicoTiar&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
-## Major-Tech Stacks
+<!--
+## Major Tech Stacks
 ### Languages 
 > <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Scala" src ="https://img.shields.io/badge/Scala-DC322F.svg?&style=for-the-badge&logo=Scala&logoColor=white"/> 
 <details><summary>Others Available</summary><blockquote>
@@ -101,6 +104,8 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 ### Hardware
 <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
 </blockquote></details>
+
+-->
 
 
 
