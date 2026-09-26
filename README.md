@@ -37,7 +37,7 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 ## Services
 * Reviewer, ARR (Including Industry Tracks), since Feb 2025
 * Reviewer, NeurIPS, 2026
-* Area Chair & Track Lead, ICML Workshop (AI4Math), 2026
+* Area Chair & Track Lead, [ICML Workshop (AI4Math)](https://ai4math2026.github.io/), 2026
 
 ## Projects
 * [Deepinme](https://github.com/ArtemisDicoTiar/deepinme)
