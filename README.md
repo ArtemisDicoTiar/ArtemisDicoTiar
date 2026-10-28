@@ -1,7 +1,7 @@
 ## Jongyoon (John) Kim 👋
 <!-- [![readmeplants](https://readmeplants.com/get?name=ArtemisDicoTiar&planet=eclipse&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants) -->
 - 📚 I'm studying (Ph.D.) Artificial Intelligence [at] the LDI Lab, Seoul National University, South Korea.
-- 🎓 My final degree is (BEng, Bachelor) in Electrical and Electronics Engineering [at] University of Bristol, United Kingdom.
+- 🎓 My final degree is (BEng, Bachelor) in Electrical and Electronics Engineering [at] the University of Bristol, United Kingdom.
 - 📝 My research focused on Natural Language Processing, supervised by Professor [Seungwon Hwang](https://seungwonh.github.io/).
 - 🔭 My research focuses on creating methods that can positively impact society, with a strong emphasis on the idea of "feedback" as a core concept in my studies.
   - (1) Enabling models to share knowledge for better performance and diverse insights.
@@ -36,10 +36,15 @@ Please take a look at [My Blog!](https://artemisdicotiar.github.io/)
 
 ## Services
 * Reviewer, ARR (Including Industry Tracks), since Feb 2025
+* Reviewer, EACL (Industry Track), 2026
 * Reviewer (Top Reviewer 🎉), NeurIPS, 2026 
 * Area Chair & Track Lead, [ICML Workshop (AI4Math)](https://ai4math2026.github.io/), 2026
 
 ## Projects
+* [Adminion](https://github.com/ldilab/adminion)
+  * 2026 Autumn ~ (Not public yet)
+* [Lab Dashboard](https://github.com/ldilab/dashboard)
+  * 2023 Autumn ~ (Will not be public)
 * [Deepinme](https://github.com/ArtemisDicoTiar/deepinme)
   * 2026 Summer ~ (Not public yet)
 * [Stitch](https://github.com/ArtemisDicoTiar/stitch)
